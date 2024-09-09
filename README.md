@@ -19,7 +19,7 @@ Das Projekt liegt im Ordner **src**.
 
 ### Modul 2
 
-Das zweite Modul (<a href="https://github.com/Mynchro/DCI_Nebula-Odyssey_Modul1-2/blob/main/kampfsystem/kampfsystem.md">Kampfsystem readme"</a>) behandelte das Erstellen eines reinen Terminal-Projektes mit Javascript.
+Das zweite Modul (<a href="https://github.com/Mynchro/DCI_Nebula-Odyssey_Modul1-2/blob/main/kampfsystem/kampfsystem.md">Kampfsystem readme</a>) behandelte das Erstellen eines reinen Terminal-Projektes mit Javascript.
 Hier haben wir uns dafür entschieden eine abstrakte Version des zukünftigen Kampfsystems für das Projekt zu coden,
 in dem sich der Spieler aus zwei verschiedenen Teams eines aussuchen kann, um 10 verschiedene Gegnertypen zu bekämpfen und sich neue Schiffe zu kaufen.
 
