@@ -27,6 +27,9 @@ Der Zeitraum des zweiten Modulabschlusses ging dabei vom 07.05.2024 bis zum 16.0
 
 Das Projekt liegt im Ordner **kampfsystem**. Die auszuführende Datei ist die index.js.
 
+[Zurück zum Anfang](#gruppenprojekt-module-1-und-2-des-web-development-kurses-beim-dci-digital-career-institute)
+
+
 ---
 
 # Group Project: Modules 1 and 2 of the Web Development Course at DCI Digital Career Institute
@@ -56,5 +59,4 @@ The timeline for the second module project was from May 7, 2024, to May 16, 2024
 
 The project is located in the kampfsystem folder. The main executable file is index.js.
 
-[Back to top](https://github.com/Mynchro/DCI_Nebula-Odyssey_Modul1-2?tab=readme-ov-file#group-project-modules-1-and-2-of-the-web-development-course-at-dci-digital-career-institute)
-
+[Back to top](#gruppenprojekt-module-1-und-2-des-web-development-kurses-beim-dci-digital-career-institute)
