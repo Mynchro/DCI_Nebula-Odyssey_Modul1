@@ -13,7 +13,7 @@ Der Zeitraum des ersten Modulabschlusses ging dabei vom 20.02.2024 bis zum 28.02
 
 Das Projekt liegt im Ordner **src**.
 
-*Hinweis* Nach der Präsentation des HTML-CSS-Projekts haben wir bereits angefangen wenige Javascript-Implementierungen zu schreiben, um z.B. Bilder per on-click zu ändern *Hinweis*
+*Hinweis: Nach der Präsentation des HTML-CSS-Projekts haben wir bereits angefangen wenige Javascript-Implementierungen zu schreiben, um z.B. Bilder per on-click zu ändern.*
 
 ---
 
@@ -31,4 +31,4 @@ The timeline for the first module project was from February 20, 2024, to Februar
 
 The project is located in the **src** folder.
 
-*Note* After the presentation of the HTML-CSS project, we have already started writing some JavaScript implementations, for example, to change images via on-click events. *Note*
+*Note: After the presentation of the HTML-CSS project, we have already started writing some JavaScript implementations, for example, to change images via on-click events.*
